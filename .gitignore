@@ -3,3 +3,5 @@ ch02/*.sh
 ch03/*.json
 .mypy_cache/
 .vscode/
+*.bin
+questions-words.txt
